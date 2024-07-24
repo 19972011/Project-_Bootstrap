@@ -1,1 +1,1 @@
-*Change the branch my new branch from main branch
+*Change the branch to my new branch from main branch
